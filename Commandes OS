@@ -1,0 +1,41 @@
+commandes linux
+
+Setxkbmap  (be) = configuration du clavier (en clavier belge dans notre cas)
+Su = changement d’utilisateur (su = switch up)
+Sudo = permet d’exécuter des commandes en tant qu’utilisateur
+Apt-get-install = installation de package (comme nano et vim pour éditer le texte)
+Dir = afficher contenu d’un répertoire 
+Mkdir = créer un répertoire 
+Date = afficher date/heure
+Adduser = ajouter un utilisateur
+Useradd = ajouter un utilisateur en spécifiant + d’informations (ex : UID)
+Ls = afficher liste fichiers/répertoires 
+Cat = afficher contenu d’un fichier
+Id = confirmer l’identité d’un utilisateur spécifique 
+X > y = redirection d’un fichier
+Touch = création fichier (si on utilise par exemple touch ex {1..9} cele créera les fichiers ex1 ex2 ex2…ex9)
+Passwd = changer mdp
+File = afficher le type de fichier
+Head = afficher début d’un fichier txt
+Tail = afficher fin d’un fichier txt
+Wc = afficher le nombre de lignes de mots et de caractères d’un fichier 
+Ps = lister les processus
+Pwd = afficher chemin d’accès
+Cd = déplacement de répertoire (variantes : cd / pour accéder directement au repertoire personnel, cd – pour accéder au sous répertoire)
+Mv = déplacer ficher ou répertoire
+Rm = effacer un ou plusieurs fichier(s) 
+? = remplacer un caractère
+Echo = répète ce qu’il lui est dit
+
+commandes windows
+
+Dir = afficher contenu d’un répertoire 
+Mkdir = créer un repertoire
+Rmdir = suppression d’un répertoire 
+Echo = répète ce qu’il lui est dit
+Copy = copier un fichier 
+Copy con = créer un fichier
+? = remplacer un caractère
+Cd = déplacer un fichier 
+Net user = création d’un utilisateur (executer l’inviter de commande en tant qu’administrateur pour utiliser la commande)
+Net localgroup = ajouter des groupes
